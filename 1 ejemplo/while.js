@@ -7,4 +7,4 @@ while (i > -1){
 
 }
 
-console.log(myArray);
+console.log(myArray)
