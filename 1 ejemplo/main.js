@@ -1,1 +1,17 @@
-const sum = 10 + 0;
+
+
+function trueOrFalse(wasThatTrue) {
+    // Cambia solo el código debajo de esta línea
+  if (wasThatTrue){
+  
+    return "Yes, that was true";
+  }
+  return "No, that was false";
+  
+  
+    // Cambia solo el código encima de esta línea
+  
+  }
+  
+console.log(trueOrFalse(true));
+console.log(trueOrFalse(false));
